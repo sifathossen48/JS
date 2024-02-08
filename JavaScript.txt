@@ -1,0 +1,41 @@
+JavaScript
+---------------
+1. console.log
+2. comments
+3. ES6(ECMAScript6)
+4. Variable
+5. let(reassign varibale work) and const(reassign variable don't work)
+6. Primitive Types (string,number,boolean,undefined,object)
+7. Reference types: Object(Basics)
+8. Reference types: Array(Basics)
+9. Reference types: Function(Basics)
+10. Template Literals
+11. Exercise--Person Object
+12. Operator
+    1.Arithmetic Operator
+    2.Assignment Operator
+    3.Comparison Operator
+    4.Logical Operator
+    5.Equality Operator
+13. Problem: Swap two numbers
+14. Conditional Statement
+    1.If_Else
+    2.Switch Case
+    3.Ternary Operator 
+    4.Problem: FizzBuzz with if_else
+    5.Problem: FizzBuzz with Ternary Operator
+    6.Problem: Leap Year Check
+    7.Problem: Grading System
+    8.Switch Case with multiple logical operators	
+15. Loop 
+    1.For Loop
+    2.While Loop
+    3.Do While Loop
+    4.For.....in 
+    5.For.....of 
+    6.Break & Continue 
+    7.Infinite Loop 
+    8.Nasted Loop 
+    9.Problem: Print Even Odd Numbers 
+    10.Problem: Sum of all numbers in an array
+    11. Problem: Check Prime Number
